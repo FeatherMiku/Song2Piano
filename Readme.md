@@ -28,7 +28,7 @@
 **运行环境 & 依赖（建议）**
 - Python 3.10+
 - PyTorch（与 CUDA 版本匹配）
-- numpy, audiotools, pydub, tqdm，h5py
+- numpy, audiotools, pydub, tqdm，h5py，descript-audio-codec
 
 
 
