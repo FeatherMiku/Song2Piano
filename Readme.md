@@ -28,14 +28,9 @@
 **运行环境 & 依赖（建议）**
 - Python 3.10+
 - PyTorch（与 CUDA 版本匹配）
-- numpy, audiotools, pydub, tqdm
+- numpy, audiotools, pydub, tqdm，h5py
 
 
-示例安装（视环境调整）：
-
-```bash
-pip install -r requirements.txt  
-```
 
 **快速开始（示例命令）**
 
